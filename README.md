@@ -1,13 +1,14 @@
 # Learning in the Machine: To Share or not to Share?
 
-This repository is associated with [our paper](https://arxiv.org/abs/1909.11483).
+This repository is associated with [our paper](https://www.sciencedirect.com/science/article/pii/S0893608020300939).
 
 ```
-@article{ott2019learning,
-  title={Learning in the Machine: To Share or Not to Share?},
+@article{ott2020learning,
+  title={Learning in the machine: To share or not to share?},
   author={Ott, Jordan and Linstead, Erik and LaHaye, Nicholas and Baldi, Pierre},
-  journal={arXiv preprint arXiv:1909.11483},
-  year={2019}
+  journal={Neural Networks},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
 
