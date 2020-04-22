@@ -13,17 +13,17 @@ This repository is associated with [our paper](https://www.sciencedirect.com/sci
 ```
 
 # Pipeline
-1. [Hyperparameter grid search](https://github.com/jordanott/WeightSharing/tree/master/HyperOpt)
+1. [Hyperparameter grid search](https://github.com/Learning-In-The-Machine/Weight-Sharing/tree/master/HyperOpt)
   * Number of layers
   * Learning rate
-2. [Full experiments](https://github.com/jordanott/WeightSharing/blob/master/runner.py)
+2. [Full experiments](https://github.com/Learning-In-The-Machine/Weight-Sharing/blob/master/runner.py)
   * Types of augmentation
     * Edge noise
     * Translation
     * Rotation
     * Noise
     * Quadrant swap
-3. [Results](https://github.com/jordanott/WeightSharing/blob/master/Results/Results.ipynb)
+3. [Results](https://github.com/Learning-In-The-Machine/Weight-Sharing/blob/master/Results/Results.ipynb)
   * Metrics
     * Loss
     * Validation loss
